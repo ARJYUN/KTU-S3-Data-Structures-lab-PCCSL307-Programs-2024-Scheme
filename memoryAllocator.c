@@ -11,6 +11,7 @@ struct block{
 typedef struct block block;
 block *head=NULL,*end=NULL;
 
+//add memory block
 void add_block(int s,int i){
     int start_add;
     block *new=(block*)malloc(sizeof(block));
@@ -31,6 +32,7 @@ void add_block(int s,int i){
     }
 }
 
+//first fit
 void first_fit(){
     int processSize;
     printf("Enter process size: ");
@@ -61,8 +63,10 @@ void first_fit(){
         }
         ptr=ptr->next;
     }
+    printf("\nNo No suitable block found for size %d(First Fit).\n", processSize);
 }
 
+//best fit
 void best_fit(){
     int processSize;
     printf("Enter process size: ");
@@ -102,6 +106,7 @@ void best_fit(){
     }
 }
 
+//worst fit
 void worst_fit(){
     int processSize;
     printf("Enter process size: ");
@@ -141,7 +146,7 @@ void worst_fit(){
     }
 }
 
-
+//print memory
 void print_memory(){
     block *ptr=head;
     printf("\nMemory State:\n");
@@ -152,6 +157,7 @@ void print_memory(){
     }
 }
 
+//main function
 void main(){
     int n,size,c;
     printf("Enter no. of memory blocks: ");
