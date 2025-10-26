@@ -1,13 +1,12 @@
 #include<stdio.h>
 #include<stdlib.h>
+
 #define SIZE 10
 
 struct Node{
     int data;
     struct Node*next;
-};
-
-struct Node*hashTable[SIZE];
+}*hashTable[SIZE];
 
 int hash(int key){
     return key%SIZE;
@@ -91,3 +90,4 @@ void main(){
         }
     }
 }
+
