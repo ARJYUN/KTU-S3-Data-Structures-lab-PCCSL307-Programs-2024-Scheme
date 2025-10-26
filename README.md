@@ -155,7 +155,7 @@ Contributions are welcome! Feel free to:
 
 ## 👨‍💻 Author
 
-**ARJYUN**
+**ARJUN K**
 
 - GitHub: [@ARJYUN](https://github.com/ARJYUN)
 - Repository: [KTU-S3-Data-Structures-lab](https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme)
