@@ -106,7 +106,6 @@ void merge_sort(int x[],int n){
 }
 
 
-
 void main(){
     int quick[MAX], heap[MAX], merge[MAX];
     printf("Enter the array elements : \n");
@@ -134,3 +133,4 @@ void main(){
         printf("%d ",merge[i]);
     }
 }
+
