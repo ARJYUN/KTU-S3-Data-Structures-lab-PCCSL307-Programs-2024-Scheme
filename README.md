@@ -25,3 +25,15 @@ Sl. No| Experiment
 17|Browser Navigation Simulation
 18|Basic Memory Allocator/
 19|Binary Search Tree using linked lists - creations, insertion, deletion and traversal.
+20|Expression Tree
+21|Dictionary Implementation Using BST
+22|Implementation of BFS 
+23|Implementation of DFS
+24|Mine in Maze-Multi Source BFS
+25|Water Pouring Problem-Graph Modelling
+26|Implementation of sorting algorithms – bubble, insertion, selection sort
+27|Implementation of sorting algorithms - quick, merge, heap sort
+28|Merge k sorted lists
+29|Linear Search and Binary Search
+30|Hash table using your own mapping functions-chaining 
+31|Hash table using your own mapping functions-linear probing
