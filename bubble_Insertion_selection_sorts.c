@@ -26,7 +26,6 @@ void insertion_sort(int arr[MAX]){
     }
 }
 
-
 void selection_sort(int arr[MAX]){
     int min, ind,temp;
     for(int i=0;i<MAX-1;i++){
