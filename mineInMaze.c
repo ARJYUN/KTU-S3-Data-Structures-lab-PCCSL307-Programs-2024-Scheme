@@ -55,7 +55,7 @@ void mineD(int m,int n,char cell[m][n]){
     }
 }
 
-int main(){
+void main(){
     printf("Enter the dimension of maze  m,n : ");
     scanf("%d %d",&m,&n);
     char cell[m][n];
@@ -66,5 +66,4 @@ int main(){
         }
     }
     mineD(m,n,cell);
-    return 0;
 }
