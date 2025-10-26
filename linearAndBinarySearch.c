@@ -65,7 +65,6 @@ void binarySearch(){
 }
 
 
-
 void main(){
     printf("Enter the array elements : \n");
     for(int i=0;i<MAX;i++){
@@ -76,3 +75,4 @@ void main(){
     printf("\nBinary Search : \n--------------");
     binarySearch();
 }
+
