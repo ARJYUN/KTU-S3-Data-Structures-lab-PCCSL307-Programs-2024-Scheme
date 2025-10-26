@@ -1,8 +1,11 @@
 #include<stdio.h>
 #define MAX 1000
+
 int m,n;
+
 int dirX[]={-1,1,0,0};
 int dirY[]={0,0,-1,1};
+
 struct node{
     int x,y,d;
 }queue[MAX*MAX];
