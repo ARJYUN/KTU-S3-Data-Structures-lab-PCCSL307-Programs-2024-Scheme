@@ -8,7 +8,6 @@ struct HeapNode {
     int elemIdx; 
 };
 
-
 void minHeapify(struct HeapNode heap[], int size, int i) {
     int smallest = i;
     int left = 2 * i + 1;
@@ -90,3 +89,4 @@ int main() {
     free(mergedArray);
     return 0;
 }
+
