@@ -49,7 +49,7 @@ void heap_sort(int a[],int n){
         int temp=a[0];
         a[0]=a[i];
         a[i]=temp;
-        heapify(a,0,i-1);
+        heapify(a,0,i);
     }
 }
 
@@ -133,4 +133,5 @@ void main(){
         printf("%d ",merge[i]);
     }
 }
+
 
