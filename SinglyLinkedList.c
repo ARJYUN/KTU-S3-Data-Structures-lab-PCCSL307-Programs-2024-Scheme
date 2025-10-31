@@ -1,13 +1,13 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-struct node* head=NULL;
-struct node* temp=NULL;
-
 struct node{
     int data;
     struct node* link;
 };
+
+struct node* head=NULL;
+struct node* temp=NULL;
 
 //insertion at beginning of sll(singly linked list)
 void insert_beg()
