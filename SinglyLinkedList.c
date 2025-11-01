@@ -62,8 +62,7 @@ void insert_btw()
 //deletion at the beginning of sll
 void deletion_begin()
 {   if(head==NULL)
-        {printf("Empty list\n");
-         exit(0);}
+        printf("Empty list\n");
     else  
         {temp=head;
          printf("Deleted element is:%d\n",temp->data);
@@ -110,8 +109,8 @@ void deletion_btw()
 //displaying sll
 void display_ll()
 {   if(head==NULL)
-        {printf("Empty list");
-         exit(0);}
+        printf("Empty list");
+         
     else
         {temp=head;
          while(temp!=NULL)
