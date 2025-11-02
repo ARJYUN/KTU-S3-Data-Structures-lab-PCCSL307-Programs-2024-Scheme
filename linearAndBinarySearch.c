@@ -4,7 +4,7 @@
 int key,arr[MAX];
 
 void linearSearch(){
-    printf("\nEnter the elements you are searching for : ");
+    printf("\nEnter the element you are searching for : ");
     scanf("%d",&key);
     int found=0,ind;
     for(int i=0;i<MAX;i++){
@@ -35,7 +35,7 @@ void sort(){
 }
 
 void binarySearch(){
-    printf("\nEnter the elements you are searching for : ");
+    printf("\nEnter the element you are searching for : ");
     scanf("%d",&key);
     sort();
     printf("\nSorted Array : \n--------------");
@@ -75,4 +75,5 @@ void main(){
     printf("\nBinary Search : \n--------------");
     binarySearch();
 }
+
 
