@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/blob/main/LICENSE</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/activity</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/issues</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/pulls</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/actions</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/security</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/blob/main/BFS.c</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/blob/main/BinarySearchTree_LL.c</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/blob/main/BrowserNavigation_DLL.c</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/blob/main/CircularQueueUsingArray.c</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/blob/main/CircularQueueUsingSLL.c</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/blob/main/DFS.c</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/blob/main/DoubleEndedQueueUsingArray.c</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/blob/main/DoubleEndedQueue_DLL.c</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/blob/main/DoublyLinkedList.c</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/blob/main/ExpressionTree.c</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/blob/main/InfixToPostfix.c</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/blob/main/MemoryAllocator.c</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/blob/main/PolynomialAdditionAndMultiplicationLinkedList.c</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/blob/main/PolynomialAdditionRepresentation1.c</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/blob/main/PostfixEvaluation.c</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/blob/main/PostofficeCustomerSimulation.c</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/blob/main/QueueUsingArray.c</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/blob/main/QueueUsingSLL.c</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/blob/main/README.md</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/blob/main/SinglyLinkedList.c</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/blob/main/Sparsematrix.c</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/blob/main/StackUsingArray.c</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/blob/main/StackUsingSLL.c</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/blob/main/bubble_Insertion_selection_sorts.c</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/blob/main/dictionaryUsingBST.c</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/blob/main/hashing_chaining.c</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/blob/main/hashing_linearProbing.c</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/blob/main/linearAndBinarySearch.c</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/blob/main/merge_k_sort.c</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/blob/main/mineInMaze.c</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/blob/main/quick_heap_merge_sorts.c</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/blob/main/waterPouring.c</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/releases</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/search?q=repo%3AARJYUN%2FKTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme++language%3AC</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/labels</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/milestones</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ARJYUN/KTU-S3-Data-Structures-lab-PCCSL307-Programs-2024-Scheme/milestones?state=closed</loc>
+  <lastmod>2025-11-10T12:24:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
